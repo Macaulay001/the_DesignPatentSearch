@@ -1,3 +1,3 @@
 # DesignPatentSearch
 
-Pstent search
+Patent search
