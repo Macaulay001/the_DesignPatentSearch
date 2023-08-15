@@ -6,7 +6,6 @@ import os
 import pandas as pd
 from PIL import Image
 
-# Function to Read Metadata and Create Dictionary
 @st.cache_data
 def load_metadata(metadata_path):
     labels_df = pd.read_csv(metadata_path, sep='\t', header=None)
@@ -14,7 +13,6 @@ def load_metadata(metadata_path):
 
 
 
-# Function to Load CLIP Model and Embeddings
 @st.cache_resource
 def load_model_and_embeddings():
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -22,7 +20,7 @@ def load_model_and_embeddings():
     image_embeddings = np.load('image_embeddings.npy')
     return model, image_embeddings
 
-# Function to Find Similar Images
+
 @st.cache_data
 def find_similar_images(query_text, num_images, image_embeddings):
     text_inputs = clip.tokenize([query_text])
@@ -36,7 +34,7 @@ def find_similar_images(query_text, num_images, image_embeddings):
 metadata_path = 'design_patent_captions.tsv'
 metadata_dict = load_metadata(metadata_path)
 
-# Image paths and descriptions
+
 image_paths = []
 descriptions = []
 folder_path = "design-patent-images"
@@ -49,7 +47,7 @@ for filename in os.listdir(folder_path):
 
 model, image_embeddings = load_model_and_embeddings()
 
-# Streamlit Interface
+
 st.title("Find Patent Images using CLIP")
 
 query_text = st.text_input("Enter a description of the image you're looking for:")
