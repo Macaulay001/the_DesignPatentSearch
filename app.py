@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
-import clip
 import torch
+import clip
 import os
 import pandas as pd
 from PIL import Image
