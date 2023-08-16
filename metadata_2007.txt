@@ -1,0 +1,1087 @@
+USD0534331	D1-121	Pet chew
+USD0534332	D2-95	Outsole for a shoe
+USD0534333	D2-606	Bow tie with biblical phrases and musical notes
+USD0534334	D2-743	Hospital garment
+USD0534335	D2-836	Portion of a garment
+USD0534336	D2-840	Shirt
+USD0534338	D2-969	Footwear upper
+USD0534339	D2-969	Footwear upper
+USD0534340	D2-969	Footwear upper
+USD0534341	D2-971	Shoe
+USD0534342	D2-972	Portion of a shoe upper
+USD0534343	D2-972	Portion of a shoe upper
+USD0534344	D2-977	Blind shoe seam design
+USD0534345	D2-977	Portion of a shoe midsole
+USD0534346	D2-977	Portion of a shoe midsole
+USD0534347	D3-238	Bag
+USD0534348	D3-243	Handbag
+USD0534349	D3-243	Handbag
+USD0534350	D3-243	Handbag
+USD0534352	D3-246	Handbag
+USD0534353	D3-279	Luggage
+USD0534354	D3-319	Modular tool storage drawer
+USD0534355	D3-320	Golf bag club divider
+USD0534356	D3-321	Portion of a tote bag
+USD0534357	D5-47	Fabric construction
+USD0534359	D6-309	Oval mirror
+USD0534360	D6-312	Picture frame
+USD0534361	D6-323	Hanger with air freshener therein
+USD0534362	D6-333	Child safety seat
+USD0534363	D6-335	Modular three piece L-shaped seating set
+USD0534364	D6-366	Seating unit having armrests
+USD0534365	D6-366	Chair
+USD0534366	D6-375	Armchair
+USD0534367	D6-390	Bassinet
+USD0534368	D6-396	Refreshment stand for swimming pools
+USD0534369	D6-396	Display apparatus
+USD0534370	D6-446	Vanity cabinet
+USD0534371	D6-446	Dresser
+USD0534372	D6-457	Eyewear display
+USD0534373	D6-457	Display rack
+USD0534374	D6-465	Vertical clothes holder
+USD0534375	D6-465	Floor spinner rack
+USD0534376	D6-468	Display rack
+USD0534377	D6-484	Table
+USD0534378	D6-484	Table
+USD0534379	D6-484	Furniture unit
+USD0534380	D6-488	Table
+USD0534381	D6-495	Exposed legs for a play yard
+USD0534382	D6-499	Support base
+USD0534383	D6-501	Chair
+USD0534385	D6-502	Chair
+USD0534386	D6-511	Conference table top
+USD0534387	D6-518	Tissue box
+USD0534388	D6-574	Shelving
+USD0534389	D6-601	Travel pillow
+USD0534390	D7-318	Insulated container
+USD0534391	D7-330	Toaster
+USD0534392	D7-330	Cream toaster
+USD0534393	D7-376	Blender insert for a food shaker
+USD0534394	D7-378	Blender
+USD0534395	D7-409	Barbecue grill with collector pan
+USD0534396	D7-532	Mug
+USD0534397	D7-620	Cupholder for slidable interaction with a hollow armrest
+USD0534398	D7-653	Spoon
+USD0534399	D7-653	Spoon
+USD0534400	D7-665	Juice extractor appliance
+USD0534401	D8-20	Saw blade
+USD0534402	D8-49	Powered staple gun
+USD0534403	D8-68	Drill
+USD0534404	D8-68	Cordless drill
+USD0534405	D8-68	Cordless drill
+USD0534406	D8-68	Electric handtool
+USD0534407	D8-69	Hammer drill non-spindle lock
+USD0534409	D8-78	Hammerhead
+USD0534410	D8-80	Tool handle cover
+USD0534411	D8-107	Handle for power bander
+USD0534412	D8-107	Tool handles
+USD0534413	D8-303	Grip
+USD0534414	D8-347	Electronic key
+USD0534415	D8-349	Housing for a pin switch or decelerator for furniture or the like
+USD0534416	D8-356	Gear shaped carabiner
+USD0534417	D8-382	Cable connector
+USD0534418	D8-396	Re-bar clamp
+USD0534419	D9-418	Package with a transparent window
+USD0534420	D9-420	Single compartment hinged container
+USD0534421	D9-420	Container
+USD0534422	D9-422	Container with rotating lid
+USD0534423	D9-426	Container
+USD0534424	D9-430	Container
+USD0534425	D9-448	Pump dispenser
+USD0534426	D9-449	Cosmetic container
+USD0534427	D9-453	Closure
+USD0534428	D9-516	Container shoulder
+USD0534429	D9-516	Container dome
+USD0534430	D9-519	Container
+USD0534431	D9-531	Beverage bottle
+USD0534432	D9-552	Bottle
+USD0534433	D9-723	Propel/repel dispensing container
+USD0534434	D9-724	Product dispensing package
+USD0534435	D9-729	Propel/repel dispensing container
+USD0534436	D9-756	Array of product dispensers
+USD0534439	D10-40	Adjustable timer housing
+USD0534440	D10-40	Timer
+USD0534441	D10-40	Timer
+USD0534442	D10-40	Adjustable timer housing
+USD0534443	D10-50	Construction thermostat
+USD0534444	D10-78	Hand-held diagnostic instrument
+USD0534445	D10-78	Handheld diagnostic instrument
+USD0534446	D10-81	Handheld instrument
+USD0534447	D10-86	Tire pump
+USD0534448	D10-104	Authentication device
+USD0534449	D10-116	Fishing pole alarm
+USD0534450	D10-132	Case for a wristwatch
+USD0534451	D11-1	Heart shaped jewelry
+USD0534452	D11-1	Heart shaped jewelry
+USD0534453	D11-3	Decorative waistlet
+USD0534454	D11-34	Ring
+USD0534455	D11-79	Circular key chain
+USD0534456	D11-157	Star recognition award
+USD0534457	D11-160	Decorative article
+USD0534458	D12-91	Automobile body
+USD0534459	D12-91	Automobile body
+USD0534460	D12-124	Bicycle derailleur
+USD0534461	D12-163	Vehicle grille
+USD0534462	D12-169	Rear bumper for an automobile
+USD0534463	D12-169	Bumper for automobiles
+USD0534464	D12-169	Vehicle rear bumper
+USD0534465	D12-176	Front face of a steering wheel
+USD0534466	D12-182	Motorcycle fairing
+USD0534467	D12-192	Surface configuration of a dashboard for a vehicle
+USD0534468	D12-192	Truck system dashboard
+USD0534469	D12-194	Surface configuration of an exhaust pipe for a vehicle
+USD0534470	D12-195	Door lining for automobile
+USD0534471	D12-203	Vehicle step garnish
+USD0534472	D12-205	Wheel rim
+USD0534473	D12-211	Wheel for a motor vehicle
+USD0534474	D12-211	Front face of a vehicle wheel
+USD0534475	D12-220	Windshield wiper blade cleaner
+USD0534476	D12-400	Decorative kit for vehicles
+USD0534477	D12-400	Decorative kit for vehicles
+USD0534478	D12-400	Decorative kit for vehicles
+USD0534479	D12-400	Decorative kit for vehicles
+USD0534480	D12-419	Folding tray table
+USD0534481	D12-553	Tire tread
+USD0534483	D12-554	Tire tread
+USD0534484	D12-584	Tire tread
+USD0534485	D12-584	Automobile tire
+USD0534486	D12-584	Automobile tire
+USD0534487	D12-588	Tire tread
+USD0534489	D13-108	Charging cradle
+USD0534490	D13-118	Power supply
+USD0534491	D13-119	Removable battery
+USD0534492	D13-123	Optical transmission conversion device
+USD0534493	D13-133	Earphone jack
+USD0534494	D13-133	Audio jack connector
+USD0534495	D13-139.4	Interconnect enclosure for computer and audio visual equipment concealable in a table top
+USD0534496	D13-139.8	Electrical power strip
+USD0534497	D13-146	Electrical coupler
+USD0534498	D13-151	Connector of the temperature sensor for oven range
+USD0534499	D13-156	Lid for the connector of oven range
+USD0534500	D13-158	Switch
+USD0534501	D13-168	Remote control transmitter
+USD0534503	D13-180	Light emitting diode (LED)
+USD0534504	D13-180	Light emitting diode (LED)
+USD0534505	D13-180	Light emitting diode
+USD0534506	D13-182	Electrode layer
+USD0534507	D14-125	Television tuner
+USD0534508	D14-126	Monitor/television receiver
+USD0534509	D14-126	Television set
+USD0534510	D14-128	Projection television
+USD0534511	D14-129	Combined television receiver with digital video disc player and video tape recorder
+USD0534512	D14-130	Video telephone
+USD0534513	D14-132	Transportable DVD multimedia player
+USD0534514	D14-138	Communicator
+USD0534515	D14-138	Mobile phone
+USD0534516	D14-138	Mobile phone
+USD0534517	D14-138	Mobile phone
+USD0534518	D14-138	Portable telephone
+USD0534519	D14-147	Security network handset
+USD0534520	D14-168	Combined radio and CD player
+USD0534521	D14-168	Combined radio and CD player
+USD0534522	D14-168	Combined radio, tape and CD player
+USD0534523	D14-214	Sub woofer
+USD0534524	D14-214	Speaker box
+USD0534525	D14-216	Speaker
+USD0534526	D14-225	Microphone
+USD0534527	D14-230	Combine antenna
+USD0534528	D14-232	Car antenna
+USD0534529	D14-234	Antenna
+USD0534530	D14-247	Key button area for a handset
+USD0534531	D14-318	Computer
+USD0534532	D14-366	Disc drive
+USD0534533	D14-391	Keyboard housing
+USD0534534	D14-407	Mouse
+USD0534535	D14-407	Mouse
+USD0534536	D14-408	Mouse
+USD0534537	D14-437	Connecting terminal for chip cards
+USD0534538	D14-486	Iconic display for a display screen of an aircraft flight attendant panel
+USD0534539	D14-486	Iconic display for a display screen of an aircraft flight attendant panel
+USD0534540	D14-486	Iconic display for a display screen of an aircraft flight attendant panel
+USD0534541	D14-486	User interface icon for a portion of a display screen
+USD0534542	D14-487	Activity indicator for a touch-based user interface for an image processing office machine
+USD0534543	D14-492	Icon for a portion of a display screen
+USD0534545	D14-496	Media device
+USD0534546	D15-4	Outboard motor
+USD0534547	D15-7	Stacked self-priming pump and centrifugal pump
+USD0534548	D15-7	Pump
+USD0534549	D15-9	Air compressor shroud
+USD0534550	D15-9	Air compressor shroud
+USD0534551	D15-19	Mortar mixer
+USD0534552	D15-25	Hydraulic excavator
+USD0534553	D15-81	Juice chiller
+USD0534554	D15-85	Refrigerator
+USD0534555	D15-85	Refrigerator
+USD0534556	D15-85	Refrigerator
+USD0534557	D15-124	Blast cabinet
+USD0534558	D15-140	Tool-holding adapter
+USD0534559	D15-143	Magnet and bearing stack
+USD0534560	D15-143	Linear actuator
+USD0534561	D15-150	Oil bath
+USD0534562	D15-199	Extruder plate for diamond shaped extruder insert
+USD0534563	D16-135	Handle for a magnifier
+USD0534564	D16-202	Digital camera
+USD0534565	D16-202	Video camera
+USD0534566	D16-208	Combined video camera and disc recorder
+USD0534567	D16-309	Fabric-wrapped sunglasses with attached sun hat
+USD0534568	D16-314	Safety eyewear
+USD0534569	D16-315	Eyeglass frame
+USD0534570	D16-315	Eyeglasses
+USD0534571	D16-326	Eyeglasses
+USD0534572	D16-326	Eyeglasses
+USD0534573	D16-326	Sunglass
+USD0534574	D16-329	Eyeglasses
+USD0534575	D17-22	Adjusting bolt seat for a drum
+USD0534576	D18-43	Toner cartridge
+USD0534577	D18-50	Printer
+USD0534578	D18-55	Printer
+USD0534579	D18-55	Printer
+USD0534580	D18-56	Ink stick for phase change ink jet printer
+USD0534581	D18-56	Ink cartridge
+USD0534582	D18-56	Ink cartridge for printer
+USD0534583	D19-3	Ballot envelope
+USD0534584	D19-34	Imaged elastic bookmark
+USD0534585	D19-44	Pen
+USD0534586	D19-50	Ballpoint pen
+USD0534587	D19-57	Cap for a writing instrument
+USD0534588	D19-65	Rectangular clip
+USD0534589	D19-69	Tape dispenser
+USD0534590	D21-385	Gaming system dome cap for a shared symbol display cap
+USD0534591	D21-432	Electrical sand motorcycle for kids
+USD0534592	D21-549	Toy vehicle
+USD0534594	D21-620	Plush toy animal
+USD0534595	D21-747	Iron golf club head
+USD0534596	D21-747	Iron golf club head
+USD0534597	D21-749	Golf iron head
+USD0534598	D21-752	Golf club head
+USD0534599	D21-752	Golf club head
+USD0534600	D21-752	Golf club head
+USD0534601	D21-754	Golf club head cover
+USD0534602	D21-756	Golf grip
+USD0534603	D21-756	Golf grip
+USD0534604	D21-756	Golf grip
+USD0534605	D21-756	Golf grip
+USD0534606	D21-756	Golf grip
+USD0534607	D21-756	Golf grip
+USD0534608	D21-759	Head for golf club
+USD0534609	D21-759	Golf club cavity
+USD0534610	D21-782	Cue stick holder
+USD0534611	D21-810	Towable diving plane
+USD0534612	D21-823	Seat
+USD0534613	D21-823	Seat
+USD0534614	D21-834	Tent with ridge pole
+USD0534615	D21-834	Tent
+USD0534616	D22-143	Line guide for fishing rod
+USD0534617	D23-223	Battery operated airbrush
+USD0534618	D23-223	Handheld shower
+USD0534619	D23-238	Faucet
+USD0534620	D23-238	Faucet
+USD0534621	D23-238	Faucet
+USD0534622	D23-238	Faucet
+USD0534623	D23-238	Faucet
+USD0534624	D23-238	Faucet
+USD0534625	D23-255	Spout
+USD0534626	D23-286	Folding sink
+USD0534627	D23-314	Heating apparatus
+USD0534628	D23-324	Control panel for automobile air-conditioning systems
+USD0534629	D23-335	Heater supported by a rotatable stand
+USD0534630	D23-351	Air conditioner
+USD0534631	D23-351	Air conditioner
+USD0534632	D23-351	Air conditioner
+USD0534636	D23-351	Air conditioner
+USD0534638	D23-353	Air conditioner
+USD0534639	D23-364	Air purifier
+USD0534640	D23-366	Volatile actives dispenser
+USD0534641	D23-366	Aroma dispensing devices
+USD0534642	D23-366	Diffusion evaporator for active substances
+USD0534643	D23-370	Window fan
+USD0534644	D23-411	Blade arm for a ceiling fan
+USD0534645	D23-411	Air guide
+USD0534646	D24-101	Nutritional supplement tablet
+USD0534647	D24-110.6	Compression clamp
+USD0534648	D24-115	Dispensing container
+USD0534649	D24-117	Catheter package with collection bag
+USD0534650	D24-133	Handle for a surgical instrument
+USD0534651	D24-133	Powered surgical screwdriver
+USD0534652	D24-135	Laryngoscope blade
+USD0534653	D24-138	Treatment apparatus for endoscope
+USD0534654	D24-138	Processor for endoscope
+USD0534655	D24-138	Light source for medical purposes
+USD0534656	D24-138	Connector for video endoscopes
+USD0534657	D24-220	Tablet crusher
+USD0534658	D24-229	Culture vessel block
+USD0534659	D25-29	Building structure for a carwash
+USD0534660	D25-48	Door facing
+USD0534661	D25-124	Window component extrusion
+USD0534662	D25-135	Column cap assembly
+USD0534663	D25-139	Terra-cotta bardeau facing panel
+USD0534664	D26-2	Metal halide reflector lamp
+USD0534665	D26-2	Light emitting diode lamp
+USD0534666	D26-9	Decorative candle holder
+USD0534668	D26-28	Front combination lamp lens for an automobile
+USD0534669	D26-31	Rear marker light bar
+USD0534670	D26-37	Luminous body
+USD0534671	D26-49	Flashlight body portion
+USD0534672	D26-49	Flashlight body portion
+USD0534673	D26-49	Electric flashlight
+USD0534674	D26-81	Lighting fixture
+USD0534675	D26-81	Light fixture
+USD0534676	D26-87	Wall lamp
+USD0534677	D26-87	Lantern
+USD0534678	D26-87	Wall lamp
+USD0534679	D26-88	Lighting fixture
+USD0534680	D26-135	Lighting fixture center body
+USD0534681	D27-154	Piezoelectric lighter
+USD0534682	D27-183	Cigar holder
+USD0534683	D28-35	Curling iron
+USD0534684	D28-35	Hair iron
+USD0534685	D28-48	Razor handle
+USD0534686	D28-48	Razor handle
+USD0534687	D28-48	Razor handle
+USD0534688	D28-48	Razor handle
+USD0534689	D28-53	Hair clipper
+USD0534690	D28-76	Multi-functional cosmetic compact
+USD0534692	D30-118	Pet bed
+USD0534693	D30-118	Pet bed
+USD0534694	D30-160	Toy for animals
+USD0534695	D30-161	Litter pan
+USD0534696	D32-1	Cleaner
+USD0534697	D32-21	Vacuum system
+USD0534698	D32-30	Container for a spray lance
+USD0534699	D32-31	Portion of a portable cleaning machine
+USD0534700	D32-55	Sponge holder
+USD0534701	D32-55	Expandable dish rack
+USD0534702	D34-9	Trash can
+USD0534703	D34-28	Movable container
+USD0534704	D34-33	Object lifting device
+USD0534705	D99-28	Automated teller machine
+USD0534706	D1-125	Twisted pet chew product
+USD0534707	D2-720	Protective gown
+USD0534708	D2-742	Pants
+USD0534709	D2-742	Jeans
+USD0534710	D2-830	Archery vest
+USD0534711	D2-893	Upper-piping visor
+USD0534712	D2-896	Medical shoe
+USD0534713	D2-929	Shoe
+USD0534714	D2-946	Skate jewel
+USD0534715	D2-969	Footwear upper
+USD0534716	D2-969	Footwear upper
+USD0534717	D2-969	Footwear upper
+USD0534718	D2-969	Shoe upper with lacing
+USD0534719	D2-972	Shoe upper toe cap
+USD0534720	D3-218	Holster and optional clip for handheld wireless device
+USD0534721	D3-218	Case for portable electronic device
+USD0534722	D3-233	Handbag
+USD0534723	D3-243	Handbag
+USD0534724	D3-270	Container
+USD0534725	D4-101	Grip pad for an electric tootbrush handle
+USD0534726	D4-101	Portion of a housing for an electric toothbrush handle
+USD0534727	D4-101	Electric toothbrush handle
+USD0534728	D4-101	Electric toothbrush handle
+USD0534729	D6-302	Lattice display frame with multiple display windows
+USD0534730	D6-312	Foldable support device
+USD0534731	D6-356	Long backrest car seat
+USD0534732	D6-356	Race car seat
+USD0534733	D6-361	Armchair with rests
+USD0534734	D6-367	Reclining chair
+USD0534735	D6-375	Seat
+USD0534736	D6-421	Desk
+USD0534737	D6-446	Cabinet with two doors movable in front of one another
+USD0534738	D6-446	Table
+USD0534739	D6-446	Dresser
+USD0534740	D6-448	Laundry storage device
+USD0534741	D6-462	Keyboard stand
+USD0534742	D6-469	Watch winder rack
+USD0534743	D6-484	Table
+USD0534744	D6-484	Table
+USD0534745	D6-492	Arm chair
+USD0534746	D6-495	Mobile computer cart base assembly
+USD0534747	D6-500	Seat and back rest for a chair
+USD0534748	D6-502	Chair
+USD0534749	D6-503	Playpen
+USD0534750	D6-510	Rollout drawer kit
+USD0534751	D6-511	Table
+USD0534752	D6-525	Shower tray
+USD0534753	D6-542	Soap dispenser
+USD0534754	D6-597	Sun eiderdown
+USD0534755	D7-332	Barbeque oven
+USD0534756	D7-332	Gas grill
+USD0534757	D7-351	Microwave oven
+USD0534758	D7-351	Microwave oven
+USD0534759	D7-354	Food steamer
+USD0534760	D7-375	Food waste disposer trim shell
+USD0534761	D7-375	Food waste disposer trim shell
+USD0534762	D7-392.1	Closeable lid
+USD0534763	D7-393	Handle of apparatus for preparing a beverage
+USD0534764	D7-402	Grill ornamentation
+USD0534765	D7-402	Bar-B-Que grill
+USD0534766	D7-405	Oven door
+USD0534767	D7-407	Burner
+USD0534768	D7-513	Drinking cup
+USD0534769	D7-523	Beverageware
+USD0534770	D7-532	Cup
+USD0534772	D7-709	Lunch purse
+USD0534773	D8-14.1	Head for a caulking apparatus
+USD0534774	D8-36	Can opener
+USD0534775	D8-45	Mounting for a plaster trowel
+USD0534776	D8-50	Stapler
+USD0534777	D8-61	Rotary mechanized tool
+USD0534778	D8-64	Electric saw
+USD0534779	D8-68	Electric handtool
+USD0534780	D8-107	Driver handle
+USD0534781	D8-107	Asymmetric pattern tool handle
+USD0534782	D8-107	Tool handle
+USD0534783	D8-107	Tool handle
+USD0534784	D8-308	Lever
+USD0534785	D8-331	Flush lock latch
+USD0534786	D8-339	Slide latch
+USD0534787	D8-353	Wall plate
+USD0534788	D8-360	Windlass winch capstan
+USD0534789	D8-363	Mounting bracket, particularly suitable for an electronic display or a speaker
+USD0534790	D8-377	Bracket
+USD0534791	D8-382	Joint condition-checking fastener for connectors
+USD0534792	D8-382	Fence post coupler
+USD0534793	D8-499	Hanger clip
+USD0534794	D9-417	Snuff box
+USD0534795	D9-425	Clamshell retail package for transponder
+USD0534796	D9-434	Bottle coupling device
+USD0534797	D9-434	Tear strip access on packaging
+USD0534798	D9-434	Tear strip access on packaging
+USD0534799	D9-435	Cap with two swirls
+USD0534800	D9-448	Spray cap
+USD0534801	D9-448	Bottle cap
+USD0534802	D9-453	Composite closure having an insert with a peripheral curl
+USD0534803	D9-519	Container
+USD0534804	D9-534	Container
+USD0534805	D9-542	Bottle
+USD0534806	D9-546	Perfume bottle
+USD0534807	D9-558	Container
+USD0534808	D9-558	Bottle
+USD0534809	D9-574	Fragrance bottle
+USD0534810	D9-675	Product display packaging
+USD0534811	D9-702	Packaging bag
+USD0534812	D9-723	Propel/repel dispensing container
+USD0534813	D9-724	Dual chamber fluid dispenser
+USD0534814	D9-726	Hair removal product application
+USD0534815	D9-749	Shaving razor tray
+USD0534816	D9-755	Holder for multiple beverage containers
+USD0534817	D9-756	Array of product dispensers
+USD0534818	D10-46	Sensor
+USD0534819	D10-77	Tester for batteries
+USD0534820	D10-92	Scale-bodymaster boussole verre
+USD0534821	D10-104	Armlet type alarm
+USD0534822	D10-104	Wireless monitoring system
+USD0534823	D10-106	Wireless smoke detection unit
+USD0534824	D10-123	Face display for a timepiece
+USD0534825	D10-132	Prismatic glass for watches and clocks
+USD0534826	D10-665	Juicer
+USD0534827	D11-34	Ring
+USD0534828	D11-35	Ring
+USD0534829	D11-38	Ring
+USD0534830	D11-84	Novelty device
+USD0534831	D11-90	Stone cut
+USD0534832	D11-95	Circular medallion
+USD0534833	D11-147	Apparatus for arranging flowers
+USD0534834	D11-162	Whimsical flamingo spinner
+USD0534836	D12-91	Automobile body
+USD0534837	D12-92	Body of an automobile
+USD0534838	D12-110	Motor scooter
+USD0534839	D12-110	Motorized tricycle
+USD0534840	D12-126	Tank cover panel
+USD0534841	D12-163	Vehicle grille
+USD0534843	D12-174	Portion of a grip
+USD0534844	D12-177	Combined reversible steering wheel cover and bag
+USD0534845	D12-179	Bicycle shift control lever
+USD0534846	D12-179	Bicycle shift control lever
+USD0534847	D12-190	Automobile body molding kit
+USD0534848	D12-194	Surface configuration of an exhaust pipe for a vehicle
+USD0534849	D12-195	Door lining for automobile
+USD0534850	D12-209	Wheel for an automobile
+USD0534851	D12-209	Front face of a vehicle wheel
+USD0534852	D12-209	Front face of a vehicle wheel
+USD0534853	D12-213	Wheel shield for tire detailing
+USD0534854	D12-302	Inflatable kayak
+USD0534855	D12-317	Wake tower
+USD0534856	D12-414.1	Tool box with drawers slidably mounted on rails for pickup truck
+USD0534857	D12-553	Tire tread
+USD0534858	D12-553	Tire tread
+USD0534860	D12-585	Automobile tire
+USD0534861	D13-102	Solar battery charger
+USD0534862	D13-108	Receptor for an electronic device
+USD0534863	D13-112	Engine-driven generator
+USD0534864	D13-133	Earphone jack
+USD0534865	D13-133	Electrical connector
+USD0534866	D13-133	Electrical connector
+USD0534867	D13-133	Electrical connector
+USD0534868	D13-133	DC jack connector
+USD0534869	D13-139.1	Power strip housing
+USD0534870	D13-162	Mirror control switch face
+USD0534871	D13-162	Spa control panel
+USD0534872	D13-162	Dimmer switch
+USD0534873	D13-162	Dimmer paddle switch
+USD0534874	D13-169	Rocker switch
+USD0534875	D13-169	Box mounted dimmer
+USD0534876	D13-180	Package for light emitting diode
+USD0534877	D13-180	Light emitting diode
+USD0534878	D14-126	Television receiver
+USD0534879	D14-126	Display
+USD0534880	D14-126	Multimedia display device
+USD0534881	D14-126	Television
+USD0534882	D14-126	Television set
+USD0534883	D14-128	Projection television
+USD0534884	D14-129	Liquid crystal television with DVD player
+USD0534885	D14-130	Video entry-phone control board
+USD0534886	D14-132	Audio-video display device
+USD0534887	D14-136	Audio disc player with tuner
+USD0534888	D14-138	Portable phone
+USD0534889	D14-138	Mobile phone
+USD0534890	D14-138	Mobile phone
+USD0534891	D14-138	Mobile phone
+USD0534892	D14-138	Mobile phone
+USD0534893	D14-138	Mobile phone
+USD0534894	D14-156	CD player
+USD0534895	D14-168	Combined disc player, radio receiver and tape recorder
+USD0534896	D14-188	Base station for a multimedia device remote control system
+USD0534897	D14-214	Speaker system
+USD0534898	D14-216	Speaker
+USD0534899	D14-216	Speaker
+USD0534900	D14-218	Remote control
+USD0534901	D14-229	Microphone boot
+USD0534902	D14-230	Multi-band antenna
+USD0534903	D14-230	Multi-band antenna
+USD0534904	D14-238	Satellite antenna mounting plate
+USD0534905	D14-238	Bracket to support the end of dipole antenna arms
+USD0534906	D14-248	Handset
+USD0534907	D14-258	Faceplate for a vehicle information and entertainment system
+USD0534908	D14-346	Portable information terminal
+USD0534909	D14-356	One button external backup storage
+USD0534910	D14-356	External backup storage
+USD0534911	D14-366	Disc drive
+USD0534912	D14-434	Modular data communication device
+USD0534913	D14-435	Interactive display card
+USD0534914	D14-450	Decorative flat screen frame
+USD0534915	D14-486	User interface icon for a portion of a display screen
+USD0534916	D14-486	User interface for a portion of a display screen
+USD0534917	D14-492	Icon for a portion of a display screen
+USD0534918	D14-492	Icon for a portion of a display screen
+USD0534919	D14-492	Icon for a portion of a display screen
+USD0534920	D14-492	Icon for a portion of a display screen
+USD0534921	D14-496	Electronic device
+USD0534922	D14-496	Portable media player
+USD0534923	D15-5	Portion of an internal combustion engine
+USD0534924	D15-9	Turbo impeller
+USD0534925	D15-9	Compressor stabilizing tray
+USD0534926	D15-9	Air compressor shroud
+USD0534927	D15-28	Cab wall for a vehicle
+USD0534928	D15-28	Pivoting rail-engaging wheels
+USD0534929	D15-32	Blade for construction machinery
+USD0534930	D15-69	Sewing machine
+USD0534931	D15-79	Beverage temperature controller for automobiles
+USD0534932	D15-136	Hand operated die cutting machine
+USD0534933	D15-139	Wire saw
+USD0534934	D15-140	Clamp boss for use with a table top work stop assembly
+USD0534935	D15-145	Netting product chute for automatic and/or manual packaging operations
+USD0534936	D16-202	Video camera
+USD0534938	D16-208	Cordless camera telephone
+USD0534939	D16-208	Camera clip
+USD0534940	D16-309	Plush sunglasses with attached cap
+USD0534941	D16-311	Swimming goggles
+USD0534942	D16-326	Sunglass frame
+USD0534943	D16-335	Glasses
+USD0534944	D18-34.4	Shredder
+USD0534945	D18-34.4	Shredder
+USD0534946	D18-50	Printer
+USD0534947	D18-50	Printer
+USD0534948	D18-56	Ink container
+USD0534949	D18-56	Ink stick for phase change ink jet printer
+USD0534950	D18-56	Ink stick for phase change ink jet printer
+USD0534951	D19-1	Sheet of writing paper
+USD0534952	D19-26	Easel pad
+USD0534953	D19-36	Carabiner pen
+USD0534954	D19-42	Writing instrument with sport ball top
+USD0534955	D19-50	Helix pen
+USD0534956	D19-51	Pen
+USD0534957	D19-51	Writing implement
+USD0534958	D19-51	Pen
+USD0534960	D19-62	Counting device
+USD0534961	D19-85	Writing utensil tray
+USD0534962	D21-333	Cover for a game controller
+USD0534963	D21-405	Noisemaker
+USD0534964	D21-432	Sand motorcycle for kids
+USD0534965	D21-519	Safebox toy
+USD0534967	D21-562	Toy car base
+USD0534968	D21-563	Wheel for a toy vehicle
+USD0534969	D21-573	Trigger assembly
+USD0534970	D21-578	Toy
+USD0534971	D21-578	Robot toy
+USD0534972	D21-588	Hand puppet
+USD0534973	D21-669	Exercise device with treadles
+USD0534974	D21-743	Golf putter head
+USD0534975	D21-756	Golf grip
+USD0534976	D21-759	Golf club head
+USD0534977	D21-759	Scoreline pattern for a golf club head
+USD0534978	D21-759	Semi-ring for a putter head
+USD0534979	D21-759	Sole of a club head
+USD0534980	D21-759	Head for golf club
+USD0534981	D21-779	Clear wheel
+USD0534982	D21-793	One piece golf ball marking disc and folding divot repair tool
+USD0534984	D21-818	Playground equipment
+USD0534985	D22-103	Firearm
+USD0534986	D22-109	Gun sight
+USD0534987	D23-223	Handle for plumbing fitting
+USD0534988	D23-238	Faucet housing
+USD0534989	D23-238	Wall-mounted faucet spout
+USD0534990	D23-238	Faucet
+USD0534991	D23-238	Deck-mount faucet
+USD0534992	D23-243	Faucet
+USD0534993	D23-250	Handle
+USD0534994	D23-250	Handle for plumbing fitting
+USD0534995	D23-250	Valve-actuating knob assembly
+USD0534996	D23-255	Spout
+USD0534997	D23-271	Wash station
+USD0534998	D23-286	Vanity cabinet
+USD0534999	D23-335	Portable heater and refrigerator
+USD0535000	D23-343	Pyramidal outdoor fireplace
+USD0535001	D23-366	Shell of a vaporizer for cars
+USD0535002	D23-366	Vaporizer
+USD0535003	D23-366	Air freshener device
+USD0535004	D23-366	Cover plate for a fragrance dispenser
+USD0535005	D23-366	Diffusion evaporator for active substances
+USD0535006	D23-367	Air freshener in the shape of a baseball jersey
+USD0535007	D23-367	Automobile air freshener
+USD0535008	D23-367	Air freshener device
+USD0535009	D23-372	Range hood
+USD0535010	D23-374	Chimney cap
+USD0535011	D23-377	Combination ceiling fan and light fixture
+USD0535012	D23-377	Ceiling fan
+USD0535013	D23-379	CPU cooler
+USD0535014	D23-411	Ceiling fan housing
+USD0535015	D23-411	Ceiling mount
+USD0535016	D24-101	Elongated tablet
+USD0535017	D24-101	Figure-eight tablet
+USD0535018	D24-101	Trilateral tablet
+USD0535019	D24-101	Disk tablet
+USD0535020	D24-101	Droplet tablet
+USD0535021	D24-101	Elliptical tablet
+USD0535022	D24-110	Nozzle adapted for insertion into a nasal cavity through a nostril
+USD0535023	D24-110.1	Elbow of a full face mask
+USD0535024	D24-140	Patient positioning frame
+USD0535025	D24-142	Reflex hammer
+USD0535026	D24-146	Safety scalpel cover
+USD0535027	D24-148	Low profile vessel sealing and cutting mechanism
+USD0535028	D24-165	Blood pressure monitor
+USD0535029	D24-167	ECG front end module
+USD0535030	D24-184	Anatomical support
+USD0535031	D24-186	Vital signs monitor
+USD0535032	D24-189	Underarm perspiration-absorbing patch
+USD0535033	D24-214	Hand-held massager
+USD0535034	D25-56	Bus shelter
+USD0535035	D25-135	Stile end cap
+USD0535036	D25-164	Smoke seal
+USD0535037	D26-1	Light emitting diode (LED)
+USD0535038	D26-2	Light emitting diode lamp
+USD0535039	D26-24	Underwater LED light
+USD0535040	D26-28	Front combination lamp lens for an automobile
+USD0535041	D26-28	Rear combination lamp
+USD0535042	D26-28	Rear combination lamp
+USD0535043	D26-28	Front combination lamp for automobile
+USD0535044	D26-28	Oval sidemarker lamp
+USD0535045	D26-28	Vehicle headlight lens
+USD0535046	D26-60	Illuminating device
+USD0535047	D26-81	Lighting fixture
+USD0535048	D26-81	Light fixture
+USD0535049	D26-84	Chandelier
+USD0535050	D26-104	Lamp
+USD0535051	D26-128	Ceiling fan light
+USD0535052	D26-131	Light globe
+USD0535053	D26-145	Light fixture component
+USD0535054	D27-189	Cigar container
+USD0535055	D28-41	Hair binder
+USD0535056	D28-46	Razor cartridge with interconnect and handle
+USD0535057	D28-49	Electric razor
+USD0535058	D29-101.1	Alligator rope
+USD0535059	D29-102	Helmet
+USD0535060	D29-102	Novelty helmet
+USD0535061	D29-122	Face mask for a batting helmet
+USD0535062	D30-118	Cat pet bed
+USD0535063	D30-118	Sofa pet bed
+USD0535064	D30-118	Flower pet bed
+USD0535065	D30-160	Dog toy
+USD0535066	D30-160	Pet toy
+USD0535067	D30-160	Rolling pet toy
+USD0535068	D30-160	Spherical pet toy
+USD0535069	D32-22	Vacuum cleaner
+USD0535070	D32-22	Vacuum cleaner
+USD0535071	D32-22	Vacuum cleaner
+USD0535072	D32-35	Compact disc cleaner
+USD0535073	D32-35	Plunger bell
+USD0535074	D32-70	Electric steam iron
+USD0535075	D34-1	Waste container with perforation band
+USD0535076	D34-24	Wheeled holder for carpet cleaning nozzle
+USD0535077	D34-32	Portable ramp with pad and stabilizers
+USD0535078	D34-32	Portable ramp with pad and stabilizers
+USD0535079	D34-35	Pallet truck pump housing
+USD0535080	D34-38	Rack
+USD0535081	D1-105	Food casing
+USD0535082	D1-122	Pet treat
+USD0535083	D2-503	Scarf
+USD0535084	D2-742	Riding chaps
+USD0535085	D2-946	Portion of a shoe upper
+USD0535086	D2-946	Skate or boot accessory having battery-powered LED lights with vibration-activating switch
+USD0535087	D2-965	Bend shoe sole design
+USD0535088	D2-969	Footwear upper portion
+USD0535089	D2-969	Footwear upper
+USD0535090	D2-969	Footwear upper
+USD0535091	D2-969	Footwear upper
+USD0535092	D2-969	Shoe
+USD0535093	D2-970	Footwear upper
+USD0535094	D2-972	Overshoe toe portion
+USD0535095	D2-972	Portion of a shoe upper
+USD0535096	D3-203.3	Fishing gear
+USD0535097	D3-243	Accessory bag
+USD0535098	D3-246	Handbag
+USD0535099	D3-276	Bag
+USD0535100	D3-283	Briefcase
+USD0535101	D3-289	Briefcase with internal organization
+USD0535102	D3-302	Box for containing collectible cards
+USD0535103	D3-315	Caddy
+USD0535104	D4-116	Nail polish bottle
+USD0535105	D4-116	Nail polish bottle
+USD0535106	D4-199	Travel case
+USD0535107	D5-57	Surface pattern of a paper product
+USD0535108	D5-99	Synthetic wicker
+USD0535109	D6-312	Signholder and adjustable easel
+USD0535110	D6-323	Robe hook
+USD0535111	D6-328	Flexible apparel hook
+USD0535112	D6-366	Chair
+USD0535113	D6-366	Chair
+USD0535114	D6-381	Lounge chair
+USD0535115	D6-382	Bed
+USD0535116	D6-425	Campaign desk
+USD0535117	D6-440	Jewelry chest
+USD0535118	D6-446	Laundry storage device
+USD0535119	D6-448	Laundry storage device
+USD0535120	D6-448	Laundry storage device
+USD0535121	D6-448	Laundry storage device
+USD0535122	D6-480	Table
+USD0535123	D6-492	Arm chair
+USD0535124	D6-492	Arm chair
+USD0535125	D6-500	Child seat base
+USD0535126	D6-500	Seat and back
+USD0535127	D6-500	Seat and back rest for a chair
+USD0535128	D6-500	Seat and back rest for a chair
+USD0535129	D6-501	Armrest
+USD0535130	D6-501	Chair arm
+USD0535131	D6-501	Armrest
+USD0535132	D6-501	Chair arm
+USD0535133	D6-501	Chair side frame
+USD0535134	D6-502	Seat frame
+USD0535135	D6-505	Bed headboard
+USD0535136	D6-505	Footboard
+USD0535137	D7-332	Barbecue apparatus
+USD0535138	D7-334	Barbeque grill
+USD0535139	D7-334	Barbeque grill
+USD0535140	D7-335	Bar-b-que grill
+USD0535141	D7-351	Microwave oven
+USD0535142	D7-375	Food waste disposer trim shell
+USD0535143	D7-391	Cover for a microwave container
+USD0535144	D7-392.1	Lid
+USD0535145	D7-393	Barbecue implement
+USD0535146	D7-394	Handle
+USD0535147	D7-395	Barbecue implement with laminated grip
+USD0535148	D7-397	Teakettle handle
+USD0535149	D7-401.2	Utensil tool apparatus
+USD0535150	D7-402	Range hood
+USD0535151	D7-510	Beverage container
+USD0535152	D7-523	Cup
+USD0535153	D7-542	Covered casserole
+USD0535154	D7-605	Combined wine cooler and warmer
+USD0535155	D7-625	Drink coaster
+USD0535156	D7-625	Drink coaster
+USD0535157	D7-628	Football helmet container
+USD0535158	D7-653	Spoon
+USD0535159	D7-664	Utensil handle
+USD0535160	D7-673	Adjustable slicer
+USD0535161	D7-673	Food slicer
+USD0535162	D7-673	Manual vegetable cutter
+USD0535163	D7-673	Cutting blade for a manual vegetable cutter
+USD0535164	D7-674	Patty forming device
+USD0535165	D8-14	Handle for adjusting louvers
+USD0535166	D8-30	Welding gun
+USD0535167	D8-30	Glue gun
+USD0535168	D8-50	Stapler
+USD0535170	D8-82	Screwdriver
+USD0535171	D8-99	Knife
+USD0535172	D8-107	Tool grip
+USD0535173	D8-107	Tool grip
+USD0535174	D8-107	Tool handle with wavy neck
+USD0535175	D8-307	Toilet attachment
+USD0535176	D8-330	Wheel locking device for tandem wheel trailer
+USD0535177	D8-333	Cable lock
+USD0535178	D8-353	Reversible cover for electronic chassis
+USD0535179	D8-367	Adhesive layered retaining clip
+USD0535180	D8-382	Insert stud for molded plastic components
+USD0535181	D8-394	Carpet holder
+USD0535182	D8-401	Door knocker
+USD0535183	D8-401	Work tool attachment coupler for a machine
+USD0535184	D9-422	Container
+USD0535185	D9-422	Container
+USD0535186	D9-422	Container
+USD0535187	D9-430	Box
+USD0535188	D9-448	Container cover
+USD0535189	D9-452	Closure cap
+USD0535191	D9-695	Tube
+USD0535192	D9-702	Packaging bag
+USD0535193	D9-721	Paperboard package with disposable container
+USD0535194	D9-732	Packaging
+USD0535195	D9-756	Multiple container pack
+USD0535196	D9-756	Cosmetic package
+USD0535197	D9-774	Tin can
+USD0535198	D10-32	Timepiece
+USD0535200	D10-32	Wrist watch
+USD0535201	D10-40	Adjustable timer housing
+USD0535202	D10-57	Ergonomic electronic thermometer
+USD0535203	D10-57	Electronic clinical thermometer
+USD0535204	D10-104	Occupancy sensor fascia cover plate
+USD0535205	D10-104	Monitoring bracelet
+USD0535206	D10-126	Face display for a timepiece
+USD0535207	D10-126	Face display for a timepiece
+USD0535208	D11-26	Korean christian verse ring
+USD0535209	D11-27	Ring
+USD0535210	D11-27	Finger ring
+USD0535211	D11-165	Flag with interchangeable detachable appliqu&eacute;s
+USD0535212	D11-216	Side release buckle
+USD0535213	D11-216	Side release buckle
+USD0535214	D11-216	Buckle
+USD0535215	D12-87	Go-cart
+USD0535216	D12-110	Motorcycle
+USD0535217	D12-110	Motorcycle
+USD0535218	D12-113	Recreation vehicle
+USD0535219	D12-114	Forward chassis and support for a cycle
+USD0535220	D12-130	Walker
+USD0535221	D12-163	Vehicle grille
+USD0535222	D12-163	Front grille for an automobile
+USD0535223	D12-163	Vehicle grille
+USD0535224	D12-163	Front grille for an automobile
+USD0535225	D12-169	Front bumper for a truck
+USD0535230	D12-169	Automobile front bumper fascia
+USD0535231	D12-169	Front bumper for an automobile
+USD0535232	D12-169	Rear bumper for an automobile
+USD0535233	D12-169	Front bumper for an automobile
+USD0535234	D12-192	Automobile cowl gauge mounting panel
+USD0535235	D12-196	Door for truck underbed box
+USD0535236	D12-196	Portion of a vehicle exterior
+USD0535237	D12-209	Custom wheel
+USD0535238	D12-209	Automotive wheel
+USD0535239	D12-209	Vehicle wheel
+USD0535240	D12-211	Front face of a vehicle wheel
+USD0535241	D12-211	Automotive wheel
+USD0535242	D12-211	Automotive wheel
+USD0535243	D12-223	Motorcycle mounting bracket
+USD0535244	D12-307	Water scooter
+USD0535245	D12-415	Console lid
+USD0535246	D12-418	Cradle cover for a vehicle entertainment system
+USD0535247	D12-553	Tire tread
+USD0535248	D12-553	Tire tread
+USD0535249	D13-103	Battery
+USD0535250	D13-103	Battery pack
+USD0535251	D13-107	Charger
+USD0535252	D13-108	Charger for electronic device
+USD0535253	D13-120	Battery pack terminal and housing
+USD0535254	D13-139.3	Receptacle type ground fault circuit interrupter with window
+USD0535255	D13-139.3	Receptacle type receptacle ground fault circuit interrupter
+USD0535256	D13-139.3	Portion of a decorator receptacle
+USD0535257	D13-139.4	Expandable power and data center
+USD0535258	D13-147	Connector
+USD0535259	D13-151	Coaxial cable connector
+USD0535260	D13-162	Signal module
+USD0535261	D13-168	Remote control
+USD0535262	D13-180	Light emitting diode module
+USD0535263	D13-180	Light emitting diode
+USD0535264	D13-182	Electrode layer
+USD0535265	D14-126	Television receiver
+USD0535266	D14-126	Television set
+USD0535267	D14-128	Projection television
+USD0535268	D14-130	Video entry-phone control board
+USD0535269	D14-132	Overhead automobile entertainment system
+USD0535270	D14-136	Digital video disc player
+USD0535271	D14-138	Mobile phone
+USD0535272	D14-138	Portable telephone
+USD0535273	D14-138	Portable telephone
+USD0535274	D14-138	Mobile phone
+USD0535275	D14-138	Portable phone
+USD0535276	D14-147	Cordless telephone handset
+USD0535277	D14-151	Telephone
+USD0535278	D14-155	Wireless audio transmitter
+USD0535279	D14-155	Transmitter
+USD0535280	D14-156	Disc player
+USD0535281	D14-167	Sound recording and reproducing apparatus
+USD0535282	D14-188	Amplifier
+USD0535283	D14-188	Device for sound amplification, in particular pre-amplifier, amplifier and speaker
+USD0535284	D14-188	Audio tuner
+USD0535285	D14-205	Earpiece and headband for a communications headset
+USD0535286	D14-206	Communication headset
+USD0535287	D14-215	Speakers for hand-held electronic game apparatus
+USD0535288	D14-215	Amplified audio docking station for a motorcycle
+USD0535289	D14-216	Speaker
+USD0535290	D14-230	Multi-band antenna
+USD0535291	D14-230	Antenna connector
+USD0535292	D14-315	Notebook computer
+USD0535293	D14-363	Hard disk drive
+USD0535294	D14-363	Optical disk drive
+USD0535295	D14-385	Reader for portable device such as a smart card
+USD0535296	D14-385	Card key encoder
+USD0535297	D14-436	Memory card with two sets of contacts
+USD0535298	D14-444	Face plate for portable hard disk drive container
+USD0535299	D14-444	Front bezel for computer enclosure
+USD0535300	D14-445	Computer front bezel
+USD0535301	D14-486	Iconic display for a display screen of an aircraft flight attendant panel
+USD0535303	D14-489	Icon for a portion of a display screen
+USD0535305	D14-496	MP3 player
+USD0535306	D14-496	Memory card audio player with a radio tuner
+USD0535307	D14-496	Memory card audio player with a radio tuner
+USD0535308	D14-496	Media device
+USD0535309	D15-9	Air compressor shroud
+USD0535310	D15-30	Cabin of a tractor
+USD0535311	D15-136	Die press
+USD0535312	D15-139	Cutting insert
+USD0535313	D15-199	Tire changer jaw
+USD0535314	D16-202	Digital camera
+USD0535315	D16-319	Eyeglasses
+USD0535316	D16-326	Eyeglasses
+USD0535317	D16-326	Safety glasses
+USD0535318	D16-326	Eyeglass frame
+USD0535319	D16-326	Eyeglass frame
+USD0535320	D16-326	Eyeglasses
+USD0535321	D17-20	Guitar pick-up
+USD0535322	D18-34.4	Paper shredder
+USD0535323	D18-35	Pneumatic tube system transaction terminal
+USD0535324	D18-50	Digital photo printer
+USD0535325	D18-55	Printer
+USD0535326	D18-56	Cartridge
+USD0535327	D18-56	Ink stick for phase change ink jet printer
+USD0535328	D18-56	Printer bumper
+USD0535329	D18-56	Ink stick for phase change ink jet printer
+USD0535330	D19-43	Marker
+USD0535331	D19-47	Writing instrument with cap
+USD0535332	D19-55	Grip for a writing instrument
+USD0535333	D19-64	Chord wheel
+USD0535334	D19-69	Masking tape applicator
+USD0535335	D19-86	Notepad holder with concealable calculator
+USD0535336	D21-279	Exercise bar
+USD0535338	D21-369	Gaming machine
+USD0535339	D21-573	Integrated hopper
+USD0535340	D21-573	Trigger assembly
+USD0535341	D21-707	Elastomeric tentacle ball
+USD0535342	D21-752	Golf club head
+USD0535343	D21-752	Golf driver head
+USD0535344	D21-754	Golf putter head cover
+USD0535345	D21-792	Golf swing training pattern for mat
+USD0535346	D21-794	Golf ball marker apparatus
+USD0535347	D21-796	Reversible golf club holder
+USD0535348	D21-811	Snowman mold
+USD0535349	D21-834	Collapsible fabric dome
+USD0535350	D21-834	Dome-shaped tent
+USD0535351	D22-147	Fishing device
+USD0535352	D23-207	Container for water treatment device
+USD0535353	D23-211.1	Fuel container
+USD0535354	D23-223	Hand shower
+USD0535355	D23-238	Water tap
+USD0535356	D23-238	Faucet
+USD0535357	D23-238	Faucet
+USD0535358	D23-238	Mixer tap for a kitchen sink
+USD0535359	D23-238	Faucet
+USD0535360	D23-238	Mixer tap for a kitchen sink
+USD0535361	D23-238	Mixer tap for a kitchen sink
+USD0535362	D23-239	Faucet
+USD0535363	D23-241	Faucet
+USD0535364	D23-252	Handle
+USD0535365	D23-252	Valve-actuating handle assembly
+USD0535366	D23-255	Spout
+USD0535367	D23-271	Wash station
+USD0535368	D23-286	Vanity having child's pull-out step
+USD0535369	D23-286	Sink
+USD0535370	D23-343	Fireplace
+USD0535371	D23-359	Dehumidifier
+USD0535372	D23-360	Facial steamer
+USD0535373	D23-365	Air filter system for automobiles
+USD0535374	D23-366	Air deodorizing apparatus
+USD0535375	D23-366	Deodorizer holder
+USD0535376	D23-366	Diffuser disposed in a decorative container
+USD0535377	D23-366	Diffusion evaporator for active substances
+USD0535378	D23-366	Diffusion evaporator for active substances
+USD0535379	D23-366	Air freshener
+USD0535380	D23-367	Air freshener in the shape of a football jersey
+USD0535381	D23-372	Smoke exhauster
+USD0535382	D23-404	Decorative fireplace
+USD0535383	D23-411	Ceiling fan housing
+USD0535384	D23-411	Fan blade bracket
+USD0535385	D23-411	Combined ceiling fan housing and light kit
+USD0535386	D23-411	Fan blade bracket
+USD0535387	D23-413	Ceiling fan blade assembly
+USD0535388	D23-413	Ceiling fan blade
+USD0535389	D24-101	Trilateral tablet with hole
+USD0535390	D24-101	Oval tablet
+USD0535391	D24-103	Trapezoidal tablet
+USD0535392	D24-118	Ostomy bag
+USD0535393	D24-138	Video-bronchoscope
+USD0535394	D24-139	Occlusal dental mirror
+USD0535395	D24-140	Patient positioning frame
+USD0535396	D24-144	Electrosurgical pencil with three button control
+USD0535397	D24-146	Portable skin care implement and charger
+USD0535398	D24-146	Punch for use with medical instrument
+USD0535399	D24-146	Safety scalpel holder
+USD0535400	D24-146	Tibial mill cutter
+USD0535401	D24-210	Heat and light therapy device
+USD0535402	D24-213	Calf and foot massager
+USD0535403	D24-232	Component extractor for biochemistry
+USD0535404	D25-38	Rail assembly
+USD0535405	D25-38	Cathedral fence section
+USD0535407	D25-124	Patio door panel interlock sash extrusion
+USD0535408	D26-24	Lamp set
+USD0535409	D26-28	Front combination lamp
+USD0535410	D26-28	Light device for bicycle
+USD0535411	D26-28	Light device for bicycle
+USD0535413	D26-28	Vehicle headlight
+USD0535414	D26-28	Front combination lamp lens for an automobile
+USD0535415	D26-28	Front combination lamp lens for an automobile
+USD0535416	D26-37	Locator light
+USD0535417	D26-37	Flashlight
+USD0535418	D26-37	Flashlight
+USD0535419	D26-40	Lantern
+USD0535420	D26-47	Electric candle
+USD0535421	D26-59	Ceiling fan light kit
+USD0535422	D26-63	Track luminaire
+USD0535423	D26-63	Luminaire
+USD0535424	D26-63	Track light fixture
+USD0535425	D26-67	Solar lamp
+USD0535426	D26-87	Lantern
+USD0535427	D26-87	Wall lamp support
+USD0535428	D26-87	Light fixture
+USD0535429	D26-110	Torchiere floor lamp
+USD0535430	D26-112	Torchiere floor lamp
+USD0535431	D26-118	Fan light grille
+USD0535432	D26-118	Lamp shade
+USD0535433	D26-119	Ventilating and lighting assembly
+USD0535434	D26-122	Luminaire lens
+USD0535435	D26-138	Illuminator storage system
+USD0535436	D27-154	Lighter
+USD0535437	D28-35	Hair iron
+USD0535438	D28-63	Poodle bath puff
+USD0535439	D28-63	Flamingo bath puff
+USD0535440	D28-65	Flossing head of motorized flosser
+USD0535441	D28-76	Container
+USD0535442	D28-78	Cosmetic compact
+USD0535443	D29-100	Motorcycle safety belt
+USD0535444	D30-118	Pet bed
+USD0535445	D30-121	Squirrel proof seed port
+USD0535446	D32-6	Drum washing machine
+USD0535447	D34-1	Waste disposal container
+USD0535448	D34-5	Refuse cart
+USD0535449	D34-7	Garbage can
+USD0535450	D34-9	Garbage can
+USD0535451	D34-16	Wheelbarrow
+USD0535452	D34-19	Rolling cabinet
+USD0535453	D34-27	Phlebotomy cart
+USD0535454	D34-28	Modular mobilizer assembly
+USD0535455	D34-35	Apron for a pallet truck
